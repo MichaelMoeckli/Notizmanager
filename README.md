@@ -1,2 +1,4 @@
 # Notizmanager
  
+Schoolproject notebook manager 
+
